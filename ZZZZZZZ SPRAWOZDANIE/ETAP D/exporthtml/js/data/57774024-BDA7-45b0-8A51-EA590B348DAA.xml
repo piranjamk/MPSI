@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1", "1", "Raport walidacji", "EARoot/EA1/EA1/EA8.htm", "4.png", "", "", "{EA4D5424-9B1C-4cc6-9EDB-9821789B082D}", "Package");
-tocTab[tocTab.length] = new Array("0.1.2", "1", "Model dziedziny", "EARoot/EA1/EA2/EA10.htm", "4.png", "", "", "{DE7C20B4-6626-4c21-9AB6-5EF9C7611A53}", "Package");
-tocTab[tocTab.length] = new Array("0.1.3", "1", "Klasy analityczne", "EARoot/EA1/EA3/EA56.htm", "4.png", "", "", "{FBB60CB5-4F5C-41e2-8E16-E356FDA0A639}", "Package");
-tocTab[tocTab.length] = new Array("0.1.4", "1", "Kooperacje", "EARoot/EA1/EA4/EA131.htm", "4.png", "", "", "{CA70E261-56A7-4a1b-B413-FD8F5D1B8E56}", "Package");

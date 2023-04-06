@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1", "1", "Analiza systemuTURBOBANK", "EARoot/EA1/EA1.htm", "34.png", "", "", "{57774024-BDA7-45b0-8A51-EA590B348DAA}", "Package");
-tocTab[tocTab.length] = new Array("0.2", "1", "Analysis View", "EARoot/EA2/EA266.htm", "34.png", "", "", "{7DF64733-124F-446a-8716-04D7B0CB5B3C}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "Domain Model", "EARoot/EA3/EA269.htm", "31.png", "", "", "{A681FEB9-0D52-444a-8183-EB30901BCCEF}", "Package");
