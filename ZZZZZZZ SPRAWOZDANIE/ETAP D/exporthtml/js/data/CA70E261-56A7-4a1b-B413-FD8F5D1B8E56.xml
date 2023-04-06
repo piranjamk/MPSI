@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.4:1", "", "Kooperacje", "EARoot/EA1/EA4/EA129.htm", "189.png", "356", "0", "", "Analysis diagram0","{916FA426-4F35-4251-9E63-5E6880F1E267}");
+tocTab[tocTab.length] = new Array("0.1.4.1", "1", "Zarzadzanie obliczaniem zdolnosci kredytowej", "EARoot/EA1/EA4/EA1/EA165.htm", "4.png", "", "", "{31FBBA3E-12F6-4c16-B829-5B000571230D}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.2", "1", "Zarzadzanie procesem dziennego raportowania", "EARoot/EA1/EA4/EA2/EA196.htm", "4.png", "", "", "{3CBC5F56-2A6E-4f36-AA81-3EFE4F6ED42B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.4.3", "1", "Zarzadzanie procesowaniem wniosku kredytowego", "EARoot/EA1/EA4/EA3/EA244.htm", "4.png", "", "", "{B01E464C-4C0C-4fd8-9578-EBCE12FF3FD1}", "Package");
